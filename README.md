@@ -111,6 +111,6 @@ In fact, this idea was born from the complexity of sharing gifts among a particu
 
 ## Conclusion
 
-I would advise that you read and tweak the code to your desired need. It will help you learn a lot. Before I forget, I am the one that did designs 😎.
+I would advise that you read and tweak the code to your desired need. It will help you learn a lot. Before I forget, I made the UI designs 😎.
 
 Happy Coding 💻
