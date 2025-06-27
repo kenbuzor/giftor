@@ -62,10 +62,10 @@ class MyAuthProvider with ChangeNotifier {
 
 //register new user
   Future<void> register({
-    @required String? email,
-    @required String? password,
-    @required File? file,
-    @required Person? person,
+    required String? email,
+    required String? password,
+    required File? file,
+    required Person? person,
   }) async {
     var receivePort = ReceivePort();
 
